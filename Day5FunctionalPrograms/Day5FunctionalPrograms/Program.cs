@@ -4,8 +4,8 @@
     {
         public static void Main(string[] args)
         {
-            Evenodd evod = new Evenodd();
-            evod.EvenorOdd();
+            Flipcoin flip = new Flipcoin();
+            flip.Flip_Percentage();
 
         }
     }
