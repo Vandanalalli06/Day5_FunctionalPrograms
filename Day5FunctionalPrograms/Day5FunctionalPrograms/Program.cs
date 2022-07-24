@@ -4,8 +4,8 @@
     {
         public static void Main(string[] args)
         {
-            Factor factor = new Factor();
-            factor.Factors();
+            Evenodd evod = new Evenodd();
+            evod.EvenorOdd();
 
         }
     }
