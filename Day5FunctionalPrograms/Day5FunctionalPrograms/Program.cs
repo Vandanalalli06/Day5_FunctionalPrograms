@@ -4,12 +4,10 @@
     {
         public static void Main(string[] args)
         {
-            Flipcoin flip = new Flipcoin();
-            flip.Flip_Percentage();
+            HarmonicNumber harmonic = new HarmonicNumber();
+            harmonic.Harmonics();
 
         }
     }
 }
 
-
-    
