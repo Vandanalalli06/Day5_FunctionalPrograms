@@ -4,8 +4,8 @@
     {
         public static void Main(string[] args)
         {
-            Swap swap = new Swap();
-            swap.Swap_of_Two();
+            Vowelcons vocon = new Vowelcons();
+            vocon.CheckVowelOrConsonant();
         }
     }
 }
