@@ -4,8 +4,8 @@
     {
         public static void Main(string[] args)
         {
-            QuotientandRemainder quorem = new QuotientandRemainder();
-            quorem.Quotient();
+            Swap swap = new Swap();
+            swap.Swap_of_Two();
         }
     }
 }
