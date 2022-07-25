@@ -4,8 +4,8 @@
     {
         public static void Main(string[] args)
         {
-            Vowelcons vocon = new Vowelcons();
-            vocon.CheckVowelOrConsonant();
+            Largestnumber large = new Largestnumber();
+            large.LargestNum();
         }
     }
 }
