@@ -4,8 +4,8 @@
     {
         public static void Main(string[] args)
         {
-            HarmonicNumber harmonic = new HarmonicNumber();
-            harmonic.Harmonics();
+            PowerOfTwo power = new PowerOfTwo();
+            power.Power_Of_Two();
 
         }
     }
