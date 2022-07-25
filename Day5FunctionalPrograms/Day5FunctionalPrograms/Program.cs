@@ -4,8 +4,8 @@
     {
         public static void Main(string[] args)
         {
-            Leapyear leap = new Leapyear();
-            leap.Leap_Year();
+            QuotientandRemainder quorem = new QuotientandRemainder();
+            quorem.Quotient();
         }
     }
 }
