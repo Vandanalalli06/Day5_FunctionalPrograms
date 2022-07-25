@@ -4,9 +4,8 @@
     {
         public static void Main(string[] args)
         {
-            PowerOfTwo power = new PowerOfTwo();
-            power.Power_Of_Two();
-
+            Leapyear leap = new Leapyear();
+            leap.Leap_Year();
         }
     }
 }
